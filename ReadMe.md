@@ -4,7 +4,7 @@ Hi, I'm Moses 👋<br><br>**Security Researcher | Go Developer | Bug Bounty Hunt
 ## 🌐 Connect with Me:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/user/OperationFriendly179)
 
-## 🐍 GitHub Snake Animation
+## 🐍 Contribution 
 ![Snake animation](https://raw.githubusercontent.com/Mosesjuju/mosesjuju/output/github-contribution-grid-snake-dark.svg?sanitize=true)
 
 # 💻 Tech Stack:
