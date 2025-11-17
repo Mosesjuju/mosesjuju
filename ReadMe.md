@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Moses 👋<br><br>**Security Researcher | Go Developer | Bug Bounty Hunter**<br><br>🔍 Building exploits in Go, automating recon with **Python**, and breaking things legally.  <br>💻 Current focus: Reverse shells, RCE payloads, and cloud Pentesting tools.  <br>🎯 Tools: `NMAP-Automator`, custom Go scanners, and a growing arsenal of 0-day PoCs.  <br>📍 Based in Nairobi, Kenya — hunting bugs between coffee and code.<br><br> *"If it runs, it can be broken. If it's broken, it can be fixed."*<br><br><br>*Responsible disclosure only. All tools for authorized testing.*
+Hi, I'm Moses 👋<br><br>**Security Researcher | Go Developer | Bug Bounty Hunter**<br><br>🔍 Building exploits in Go, automating recon with **Python**, and breaking things legally.  <br>💻 Current focus: Reverse shells, RCE payloads, and cloud Pentesting tools.  <br>🎯 Tools: Custom Go scanners, and a growing arsenal of 0-day PoCs.  <br>📍 Based in Nairobi, Kenya — hunting bugs between coffee and code.<br><br> *"If it runs, it can be broken. If it's broken, it can be fixed."*<br><br><br>*Responsible disclosure only. All tools for authorized testing.*
 
 ## 🌐 Connect with Me:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/user/OperationFriendly179)
